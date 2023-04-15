@@ -11,3 +11,9 @@ Los principios de SOLID:
 Principios de diseño de software(YAGNI,KISS y DRY), ley de Demeter y MOSCOW
 
 Patrones de diseño(definición y objetivos)
+
+### 3ª Sesión(Curso: SOLID y patrones de diseño)
+
+#### Patrones Creacionales:
+- Abstract Factory: Con este patrón usamos una interfaz para crear familias de objetos relacionados o dependientes sin especificar sus clases
+- Builder: 
