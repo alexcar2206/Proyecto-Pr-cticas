@@ -48,3 +48,4 @@ Patrones de diseño(definición y objetivos)
 
 #### Introducción a C++:
 - Introducción a C++(tipos de datos, entradas y salidas de código, funciones matemáticas, concatenación, etc)
+- Práctica de código(muestra de ello en la carpeta "Ejercicios")
